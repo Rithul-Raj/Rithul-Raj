@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 Hi, I'm Rithul Raj<br><br>🎓 BCA student focused on AI, ML, and Robotics<br>🤖 Building real-world ML + embedded systems projects<br>⚡ Interested in automation, intelligent systems, and practical AI<br>🤖 I love exploring how intelligent systems learn, reason, and make decisions<br><br>🚀 About Me<br>Currently working on AI + Robotics projects<br>Built and deployed ML models (end-to-end)<br>Learning deeper into ML engineering + system design
+# 💫 Hey there👋
+I'm Rithul Raj<br><br>🎓 BCA student focused on AI, ML, and Robotics<br>🤖 Building real-world ML + embedded systems projects<br>⚡ Interested in automation, intelligent systems, and practical AI<br>🤖 I love exploring how intelligent systems learn, reason, and make decisions<br><br>🚀 About Me<br>Currently working on AI + Robotics projects<br>Built and deployed ML models (end-to-end)<br>Learning deeper into ML engineering + system design
 
 
 ## 🌐 Socials:
@@ -15,7 +15,3 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://komarev.com/ghpvc/?username=Rithul-Raj&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
